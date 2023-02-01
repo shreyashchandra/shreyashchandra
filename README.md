@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Chandra</h1>
-<h3 align="center">Exploring every aspect of myself|| Fin-tech, Startup, Web-3 Et cetera… Tweets here are my progress report too. #solanaenthusiast</h3>
+<h3 align="center">Exploring every aspect of myself|| Fin-tech, Startup, Web-3 Et cetera… #solanaenthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashchandra&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashchandra" /> </p>
 
