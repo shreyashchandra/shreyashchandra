@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyashchandra" target="blank"><img src="https://img.shields.io/twitter/follow/shreyashchandra?logo=twitter&style=for-the-badge" alt="shreyashchandra" /></a> </p>
 
-- 🔭 I’m currently working on **Solana**
+<!-- - 🔭 I’m currently working on **Solana** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
