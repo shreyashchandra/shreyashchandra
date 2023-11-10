@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shreyashchandra" target="blank"><img src="https://img.shields.io/twitter/follow/shreyashchandra?logo=twitter&style=for-the-badge" alt="shreyashchandra" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack development**
+-  I’m currently learning **Full stack development**
 
-- 📝 I regularly write articles on [https://shreyashchandra.medium.com/](https://shreyashchandra.medium.com/)
+-  I regularly write articles on [https://shreyashchandra.medium.com/](https://shreyashchandra.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
