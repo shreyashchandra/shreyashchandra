@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Shreyash Chandra</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<p align="center"> 
-  <img src="https://lh3.googleusercontent.com/pw/ADCreHfr0LmcDy8hocVbPXZzTu0CeoVwxCP4sP3iCkVqVCsUrmHMr-Ym_SnlseKi0dSuZWeu7kjs0nvdFxeyIGMoadST9ecytAY_YOkLEzlLeP7n2S0V7H9zgLuf5XwDLPmkSIw9UR0ykmgvZPiuQHVzvX9rEQ=w1299-h601-s-no-gm?authuser=0" alt="Shreyash Chandra" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashchandra&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashchandra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyashchandra" target="blank"><img src="https://img.shields.io/twitter/follow/shreyashchandra?logo=twitter&style=for-the-badge" alt="shreyashchandra" /></a> </p>
