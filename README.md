@@ -4,7 +4,6 @@
 </div>
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shreyashchandra)
-[![LinkedIn](https://www.linkedin.com/in/shreyashchandra/)
 ![border-seperator](assets/borderseparator.gif) 
 
 ![](https://komarev.com/ghpvc/?username=shreyashchandra)
