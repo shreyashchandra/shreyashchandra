@@ -1,45 +1,61 @@
-<h1 align="center">Hi, I'm Shreyash Chandra</h1>
-<h3 align="center">A Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashchandra&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashchandra" /> </p>
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vineet%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 
-<p align="left"> <a href="https://twitter.com/shreyashchandra" target="blank"><img src="https://img.shields.io/twitter/follow/shreyashchandra?logo=twitter&style=for-the-badge" alt="shreyashchandra" /></a> </p>
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/shreyashchandra)
+[![LinkedIn](https://www.linkedin.com/in/shreyashchandra/)
+![border-seperator](assets/borderseparator.gif) 
 
--  I’m currently learning **Full stack development**
+![](https://komarev.com/ghpvc/?username=shreyashchandra)
+## About Shreyash
+<p style="font-size:7px;">
+Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
+</p>
+<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
--  I regularly write articles on [https://shreyashchandra.medium.com/](https://shreyashchandra.medium.com/)
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shreyashchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyashchandra" height="30" width="40" /></a>
-<a href="https://medium.com/medium.com/@shreyashchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@shreyashchandra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyashchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyashchandra" height="30" width="40" /></a>
-<a href="https://discord.gg/shreyashchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shreyashchandra" height="30" width="40" /></a>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyashchandra&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Github Stats
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyashchandra&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=shreyashchandra&theme=holi-theme">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashchandra&show_icons=true&locale=en" alt="shreyashchandra" /></p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
+														 
+
+
+
+
+<!-- BLOGPOSTS:END -->
+
+
