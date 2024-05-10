@@ -22,7 +22,7 @@
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,appwrite,cloudflare,mongodb" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=javascript,python,c&theme=dark"></td>
 </tr>
 <tr>
