@@ -23,14 +23,14 @@
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=c++,python,c&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cybersecurity&Cloud</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
 </tr>
 </table>
