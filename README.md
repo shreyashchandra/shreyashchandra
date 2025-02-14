@@ -30,7 +30,7 @@
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,aws,ubuntu&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
 </tr>
 </table>
