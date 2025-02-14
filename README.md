@@ -26,7 +26,7 @@
 		<td><img src = "https://skillicons.dev/icons?i=javascript,python,c&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>DevOps&Cloud</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
