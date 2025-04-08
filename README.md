@@ -23,7 +23,7 @@
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,postgres,prisma,cloudflare,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,python,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=javascript,python,c++&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>DevOps&Cloud</strong></td>
