@@ -1,30 +1,31 @@
 <!-- 🌊 Electric Blue Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a6cff,100:00d4ff&text=Shreyash%20Chandra&fontSize=55&fontAlign=50&fontColor=ffffff&desc=Distributed%20Systems%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a6cff,100:00d4ff&text=Shreyash%20Chandra&fontSize=55&fontAlign=50&fontColor=ffffff&desc=Distributed%20Systems%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descSize=16&animation=fadeIn" />
 </p>
 
 <!-- 🌌 Subtle Matrix Overlay -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/assets/matrix.gif" width="100%" style="opacity:0.35; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/assets/matrix.gif" width="88%" style="opacity:0.35; border-radius:12px;" />
 </p>
 
-<!-- ✅ SC LOGO (from your own repo -> this will work once pushed) -->
+<!-- 🌀 Neon Avatar (with Halo Glow) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyashchandra/shreyashchandra/main/assets/sc-logo.svg" width="170" />
+  <img src="https://raw.githubusercontent.com/shreyashchandra/shreyashchandra/main/assets/sc-avatar.svg" width="185" style="border-radius:50%; filter: drop-shadow(0 0 25px #00d4ff);" />
 </p>
 
-<h1 align="center">Namaste <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"/>, I'm <b>Shreyash Chandra</b></h1>
+<h1 align="center">Namaste <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35"/>, I'm <b>Shreyash Chandra</b></h1>
 
 <p align="center">
-  <b>🚀 Software Engineer</b> • <b>🛠 Full Stack Developer</b> • <b>☁️ Cloud & DevOps</b>
-</p>
-
-<p align="center">
-  I build scalable backend systems, distributed architectures & cloud-powered applications — from India 🇮🇳
+  <b>🚀 Software Engineer</b> • <b>🛠 Full Stack Developer</b> • <b>☁️ Cloud & DevOps Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Distributed+Systems+Enthusiast;Backend+Engineer;Node.js+%7C+PostgreSQL+%7C+MongoDB;Docker+%7C+AWS+%7C+CI/CD;Building+Reliable+Software&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=22"/>
+ I build scalable backend systems, distributed architectures & cloud-powered applications — from India 🇮🇳
+</p>
+
+<!-- 🖊️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Distributed+Systems+Enthusiast;Backend+Engineer;Node.js%20%7C%20PostgreSQL%20%7C%20MongoDB;Docker%20%7C%20AWS%20%7C%20CI/CD;Building+Reliable+Software&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=22"/>
 </p>
 
 <p align="center">
@@ -35,16 +36,16 @@
 
 ## 🚀 About Me
 
-Backend & Distributed Systems Engineer focusing on **reliable, predictable, scalable systems**.
+Backend & Distributed Systems Engineer — focused on **reliability**, **performance**, and **clean architecture**.
 
-- **Backend:** Node.js, Express, Fastify
-- **DB Systems:** PostgreSQL, MongoDB, Redis
-- **System Design:** Microservices, Event-driven Systems, Queues
-- **Infra:** Docker, Linux, AWS, CI/CD, Nginx
+- **Backend:** Node.js (Express / Fastify)
+- **Databases:** PostgreSQL • MongoDB • Redis
+- **Systems:** Microservices • Event-driven • Queues
+- **DevOps:** Docker • Linux • AWS • CI/CD • Nginx
 
-📩 `shreyash.chandra123@gmail.com`  
-🌍 https://www.shreyash.space  
-🔗 https://www.linkedin.com/in/shreyashchandra/
+📩 **Email:** `shreyash.chandra123@gmail.com`  
+🌐 **Portfolio:** https://www.shreyash.space  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shreyashchandra/  
 
 ---
 
