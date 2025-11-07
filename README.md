@@ -3,14 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a6cff,100:00d4ff&text=Shreyash%20Chandra&fontSize=55&fontAlign=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Distributed%20Systems%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descAlign=50&descSize=18&descAlignY=70" />
 </p>
 
-<!-- 🌌 Matrix Background -->
+<!-- 🌌 Transparent Matrix Glow Overlay -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChinmayKaitade/ChinmayKaitade/main/assets/matrix.svg" width="100%" alt="Matrix Animation"/>
+  <img src="https://i.ibb.co/3rZC0Pt/matrix-fade-overlay.gif" width="85%" style="border-radius:12px;" />
 </p>
 
-<!-- ✅ SC LOGO -->
+<!-- ✅ SC LOGO (Neon Glow + Futuristic Font + Circuit Pattern) -->
 <p align="center">
-  <img src="./assets/sc-logo.svg" width="200" alt="SC Logo" />
+  <img src="https://svgshare.com/i/15QW.svg" width="170" alt="SC Logo" />
 </p>
 
 <h1 align="center">Namaste <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"/>, I'm <b>Shreyash Chandra</b></h1>
@@ -25,12 +25,14 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></p>
 
-<!-- Typing Animation -->
+<!-- 🖊️ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Distributed+Systems+Enthusiast;Backend+Engineer;Node.js%20%7C%20PostgreSQL%20%7C%20MongoDB;Docker%20%7C%20AWS%20%7C%20CI/CD;Let's+Build+Reliable+Software!&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=24"/>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shreyashchandra&style=for-the-badge&color=2ecc71" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyashchandra&style=for-the-badge&color=2ecc71" />
+</p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/></p>
 
@@ -40,15 +42,18 @@
 
 I'm **Shreyash**, a **Backend & Distributed Systems Engineer** focused on building **fast, reliable, and maintainable** software.
 
-- Node.js, PostgreSQL, MongoDB, Redis
-- Docker, Linux, AWS, CI/CD, Nginx
-- Event-driven systems & Infra orchestration
+- Backend: **Node.js / Express / Fastify**
+- Databases: **PostgreSQL, MongoDB, Redis**
+- Systems: **Microservices, Event-driven, Queues**
+- Cloud & DevOps: **Docker, Linux, AWS, CI/CD, Nginx**
 
 📩 `shreyash.chandra123@gmail.com`  
 🌐 https://www.shreyash.space  
 🔗 https://www.linkedin.com/in/shreyashchandra/  
 
 ---
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/></p>
 
 ## 🛠 Tech Stack
 
