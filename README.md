@@ -1,4 +1,4 @@
-<!-- 🌊 Electric Blue Wave Banner (PNG — Guaranteed No XML Errors) -->
+<!-- 🌊 Electric Blue Wave Banner (PNG — Zero XML Issues) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a6cff,100:00d4ff&fontColor=ffffff&text=Shreyash%20Chandra&fontSize=55" />
 </p>
@@ -40,7 +40,7 @@ Backend & Distributed Systems Engineer — focused on **reliability**, **perform
 
 - **Backend:** Node.js (Express / Fastify)
 - **Databases:** PostgreSQL • MongoDB • Redis
-- **Architecture:** Microservices • Event-driven • Message Queues
+- **Systems:** Microservices • Event-driven • Message queues
 - **Cloud & DevOps:** Docker • Linux • AWS • CI/CD • Nginx
 
 📩 **Email:** `shreyash.chandra123@gmail.com`  
@@ -61,11 +61,11 @@ Backend & Distributed Systems Engineer — focused on **reliability**, **perform
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/shreyashchandra/doctor-cms-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashchandra&repo=doctor-cms-platform&theme=tokyonight"/>
+  <a href="https://github.com/shreyashchandra/Wazir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashchandra&repo=Wazir&theme=tokyonight" />
   </a>
-  <a href="https://github.com/shreyashchandra/cab-application-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashchandra&repo=cab-application-backend&theme=tokyonight"/>
+  <a href="https://github.com/shreyashchandra/Verbatiam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashchandra&repo=Verbatiam&theme=tokyonight" />
   </a>
 </p>
 
@@ -80,10 +80,10 @@ Backend & Distributed Systems Engineer — focused on **reliability**, **perform
 
 ---
 
-## 🐍 Contribution Snake
+## 📅 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyashchandra/shreyashchandra/output/snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashchandra&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
