@@ -1,0 +1,25 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glowGrad" x1="0" y1="0" x2="300" y2="300">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0a6cff"/>
+    </linearGradient>
+    <filter id="neon-glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="circuit" x="0" y="0" width="0.12" height="0.12">
+      <path d="M0 10 H10 V0" stroke="#003b7a" stroke-width="2" fill="none"/>
+    </pattern>
+  </defs>
+  <rect width="300" height="300" rx="28" fill="#0d1117"/>
+  <rect x="10" y="10" width="280" height="280" rx="24" fill="url(#circuit)" opacity="0.35"/>
+  <rect x="10" y="10" width="280" height="280" rx="24" stroke="url(#glowGrad)" stroke-width="4"/>
+  <text x="50%" y="57%" text-anchor="middle" filter="url(#neon-glow)"
+        fill="url(#glowGrad)" font-family="Orbitron, monospace" font-size="110" font-weight="900" letter-spacing="6">
+    SC
+  </text>
+</svg>

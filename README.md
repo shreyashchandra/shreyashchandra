@@ -1,16 +1,16 @@
 <!-- 🌊 Electric Blue Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a6cff,100:00d4ff&text=Shreyash%20Chandra&fontSize=55&fontAlign=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Distributed%20Systems%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descAlign=50&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a6cff,100:00d4ff&text=Shreyash%20Chandra&fontSize=55&fontAlign=50&fontColor=ffffff&desc=Distributed%20Systems%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descSize=16" />
 </p>
 
-<!-- 🌌 Transparent Matrix Glow Overlay -->
+<!-- 🌌 Subtle Matrix Overlay -->
 <p align="center">
-  <img src="https://i.ibb.co/3rZC0Pt/matrix-fade-overlay.gif" width="85%" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/main/assets/matrix.gif" width="100%" style="opacity:0.35; border-radius:10px;" />
 </p>
 
-<!-- ✅ SC LOGO (Neon Glow + Futuristic Font + Circuit Pattern) -->
+<!-- ✅ SC LOGO (from your own repo -> this will work once pushed) -->
 <p align="center">
-  <img src="https://svgshare.com/i/15QW.svg" width="170" alt="SC Logo" />
+  <img src="https://raw.githubusercontent.com/shreyashchandra/shreyashchandra/main/assets/sc-logo.svg" width="170" />
 </p>
 
 <h1 align="center">Namaste <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"/>, I'm <b>Shreyash Chandra</b></h1>
@@ -23,37 +23,30 @@
   I build scalable backend systems, distributed architectures & cloud-powered applications — from India 🇮🇳
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></p>
-
-<!-- 🖊️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Distributed+Systems+Enthusiast;Backend+Engineer;Node.js%20%7C%20PostgreSQL%20%7C%20MongoDB;Docker%20%7C%20AWS%20%7C%20CI/CD;Let's+Build+Reliable+Software!&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=24"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Distributed+Systems+Enthusiast;Backend+Engineer;Node.js+%7C+PostgreSQL+%7C+MongoDB;Docker+%7C+AWS+%7C+CI/CD;Building+Reliable+Software&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=22"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyashchandra&style=for-the-badge&color=2ecc71" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/></p>
-
 ---
 
 ## 🚀 About Me
 
-I'm **Shreyash**, a **Backend & Distributed Systems Engineer** focused on building **fast, reliable, and maintainable** software.
+Backend & Distributed Systems Engineer focusing on **reliable, predictable, scalable systems**.
 
-- Backend: **Node.js / Express / Fastify**
-- Databases: **PostgreSQL, MongoDB, Redis**
-- Systems: **Microservices, Event-driven, Queues**
-- Cloud & DevOps: **Docker, Linux, AWS, CI/CD, Nginx**
+- **Backend:** Node.js, Express, Fastify
+- **DB Systems:** PostgreSQL, MongoDB, Redis
+- **System Design:** Microservices, Event-driven Systems, Queues
+- **Infra:** Docker, Linux, AWS, CI/CD, Nginx
 
 📩 `shreyash.chandra123@gmail.com`  
-🌐 https://www.shreyash.space  
-🔗 https://www.linkedin.com/in/shreyashchandra/  
+🌍 https://www.shreyash.space  
+🔗 https://www.linkedin.com/in/shreyashchandra/
 
 ---
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/></p>
 
 ## 🛠 Tech Stack
 
@@ -64,7 +57,7 @@ I'm **Shreyash**, a **Backend & Distributed Systems Engineer** focused on buildi
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/shreyashchandra/doctor-cms-platform">

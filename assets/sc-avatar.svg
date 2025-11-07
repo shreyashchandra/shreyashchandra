@@ -1,0 +1,39 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Electric Blue Gradient -->
+    <linearGradient id="grad" x1="0" y1="0" x2="600" y2="600">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#0a6cff"/>
+    </linearGradient>
+
+    <!-- Neon Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Circuit Pattern -->
+    <pattern id="circuit" width="0.1" height="0.1" patternUnits="objectBoundingBox">
+      <path d="M0 10 H10 V0" stroke="#003b7a" stroke-width="3" fill="none"/>
+    </pattern>
+  </defs>
+
+  <!-- Dark Background -->
+  <circle cx="300" cy="300" r="290" fill="#0d1117"/>
+
+  <!-- Circuit Layer -->
+  <circle cx="300" cy="300" r="260" fill="url(#circuit)" opacity="0.35"/>
+
+  <!-- Neon Outline -->
+  <circle cx="300" cy="300" r="260" stroke="url(#grad)" stroke-width="14" filter="url(#glow)" fill="none"/>
+
+  <!-- SC Text -->
+  <text x="50%" y="56%" text-anchor="middle"
+        font-family="Orbitron, monospace" font-size="200" font-weight="900"
+        fill="url(#grad)" filter="url(#glow)">
+    SC
+  </text>
+</svg>
