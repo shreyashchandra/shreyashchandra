@@ -64,7 +64,7 @@ Backend & Distributed Systems Engineer — focused on **reliability**, **perform
   <a href="https://github.com/shreyashchandra/Wazir">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashchandra&repo=Wazir&theme=tokyonight" />
   </a>
-  <a href="https://github.com/shreyashchandra/Verbatiam">
+  <a href="https://github.com/shreyashchandra/padhlyebhaiai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreyashchandra&repo=padhlyebhaiai&theme=tokyonight" />
   </a>
 </p>
