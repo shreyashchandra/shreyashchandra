@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a6cff,100:00d4ff&fontColor=ffffff&text=Shreyash%20Chandra&fontSize=52&desc=Backend%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud%20%26%20GenAI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a6cff,100:00d4ff&fontColor=ffffff&text=Shreyash%20Chandra&fontSize=52&desc=Backend%20%7C%20Distributed%20Systems%20%7C%20Cloud%20and%20GenAI&descAlignY=62&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
