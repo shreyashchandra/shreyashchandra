@@ -25,7 +25,7 @@ I'm a **Software Engineer** from India 🇮🇳 with **2+ years** building backe
 I care about **reliability, performance, and clean architecture**, and I like the kind of problems where latency numbers actually matter.
 
 ```yaml
-currently:    Software Developer @ TCS  (AUG 2026 – present)
+currently:    Software Developer @ Redsling  (AUG 2026 – present)
 working_on:   RAG debugging, multi-model LLM gateways, AWS ECS infra
 exploring:    Low-latency systems in C++, distributed systems, system design
 ask_me_about: Node.js · Python · PostgreSQL · Redis · Docker · AWS · Terraform
